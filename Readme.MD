@@ -89,7 +89,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 For any inquiries or feedback, please contact:
 
-- Your Name
+- Sudeep Shakya
 - Email: shakyasudeep@live.com
 - GitHub: [Your GitHub Profile](https://github.com/shakyasudeep)
 
