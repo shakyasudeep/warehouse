@@ -28,25 +28,25 @@ Make sure you have the following installed on your machine:
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/your-username/deal-management-system.git
+   git clone https://github.com/your-username/warehouse.git
    ```
 
 2. Navigate to the project directory:
 
    ```shell
-   cd deal-management-system
+   cd warehouse
    ```
 
 3. Build the Docker image:
 
    ```shell
-   docker build -t deal-management-system .
+   docker build -t warehouse .
    ```
 
 4. Run the Docker container:
 
    ```shell
-   docker run -p 8080:8080 deal-management-system
+   docker run -p 8080:8080 warehouse
    ```
 
 5. The application will now be accessible at [http://localhost:8080](http://localhost:8080).
@@ -90,8 +90,8 @@ This project is licensed under the [MIT License](LICENSE).
 For any inquiries or feedback, please contact:
 
 - Your Name
-- Email: yourname@example.com
-- GitHub: [Your GitHub Profile](https://github.com/your-username)
+- Email: shakyasudeep@live.com
+- GitHub: [Your GitHub Profile](https://github.com/shakyasudeep)
 
 Feel free to reach out if you have any questions or need further assistance.
 
