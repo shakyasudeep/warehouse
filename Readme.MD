@@ -58,7 +58,7 @@ The Deal Management System provides a RESTful API to interact with the deals. He
 - **Create a new deal**
 
   ```http
-  POST /deals
+  POST /deals/import
   ```
 
   Request body:
